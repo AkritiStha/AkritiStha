@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akriti-shrestha-7164533b1">
-    <img src="https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=b392f0"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=b392f0" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/akritistha_">
-    <img src="https://img.shields.io/badge/instagram-0d1117?style=flat-square&logo=instagram&logoColor=b392f0"/>
+    <img src="https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=b392f0" alt="Instagram"/>
   </a>
   <a href="https://github.com/AkritiStha">
-    <img src="https://img.shields.io/badge/github-0d1117?style=flat-square&logo=github&logoColor=b392f0"/>
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=b392f0" alt="GitHub"/>
   </a>
 </p>
 
@@ -53,6 +53,8 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AkritiStha&show_icons=true&hide_border=true&bg_color=0d1117&title_color=b392f0&icon_color=b392f0&text_color=c9d1d9&cache_seconds=1800" height="150" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkritiStha&layout=compact&hide_border=true&bg_color=0d1117&title_color=b392f0&text_color=c9d1d9&langs_count=6&cache_seconds=1800" height="150" alt="Top Languages"/>
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=AkritiStha&theme=tokyonight&hide_border=true&background=0d1117&ring=b392f0&fire=b392f0&currStreakLabel=b392f0&cache_seconds=1800" height="150" alt="GitHub Streak"/>
 </div>
 
 <br>
